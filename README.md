@@ -4,11 +4,4 @@ Create songs in any musical style, for any producer, whether you're a beginner o
 
 Extremely Fast and Cloud Based. Created for everyone.
 
-█████████
-█▄█████▄█
-█▼▼▼▼▼
-█
- FREE FOR ALL
-█▲▲▲▲▲
-█████████
- ██ ██
+---> Download NG by clicking "Code" and then "Download ZIP" <---
