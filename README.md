@@ -7,5 +7,5 @@ Extremely Fast and Cloud Based. Created for everyone.
 
 ---> Download NG by clicking "Code" and then "Download ZIP" <---
 
-last release:
+LAST REALESE [1.2]:
 https://github.com/NervousGroove/ng-daw/releases/tag/daw
