@@ -4,8 +4,5 @@ Create songs in any musical style, for any producer, whether you're a beginner o
 
 Extremely Fast and Cloud Based. Created for everyone.
 
-
----> Download NG by clicking "Code" and then "Download ZIP" <---
-
-LAST REALESE [1.3]:
+---> LAST REALESE [1.3]:
 https://github.com/NervousGroove/ng-daw/releases/tag/daw13
