@@ -4,8 +4,8 @@ Create songs in any musical style, for any producer, whether you're a beginner o
 
 Extremely Fast and Cloud Based. Created for everyone.
 
-🔥 LAST REALESE [1.3]:
----> https://github.com/NervousGroove/ng-daw/releases/tag/daw13 <---
+🔥 LAST REALESE [1.4]:
+---> https://github.com/NervousGroove/Nervous-Groove/releases/tag/daw14 <---
 
 🐱‍🐉For developers:
 
